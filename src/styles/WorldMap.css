@@ -1,0 +1,8 @@
+.track-info-panel {
+    margin-top: 10px;
+  }
+  mark text {
+    font-size: smaller;
+    flood-color: lawngreen;
+    font-style: italic;
+  }
